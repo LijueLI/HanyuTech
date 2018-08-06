@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Hanyutech</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="aboutustitle">關於我們</string>
+    <string name="aboutus">台灣翰宇電子科技有限公司是一家專業為半導體封測廠及智能化需求等領域服務的技術公司，主要方向 :\n
+                            1. 封測設備耗材提供\n
+                            2. 半導體封測廠二手設備買賣\n
+                            3. 工廠自動化智能系統規劃\n
+                            公司一直本着“誠信至善，追求卓越”的服務理念，同時擁有二十多年半導體封測領域之技術經驗、提供優質的產品及貼心的服務，讓顧客滿意，是我們一直努力的目標。</string>
+    <string name="home">主頁</string>
+    <string name="news">最新消息</string>
+    <string name="contactus">聯絡我們</string>
+    <string name="contactusdata">HanYu 翰宇電子科技有限公司\n聯絡電話 : 0966034539\nE-mail : jonas@hanyutech.com</string>
+</resources>
